@@ -1,4 +1,4 @@
-public class UC6 {
+public class UC7 {
 
     public static void main(String[] args) {
 
